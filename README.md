@@ -1,4 +1,6 @@
 
+
+
 # Doc-Ock
 
 Doc-Ock is a web-to-markdown tool built with SvelteKit that allows you to parse any website into markdown, edit the content, and publish it for easy sharing. The published markdown can be imported into AI editors as context simply by pasting the URL.
