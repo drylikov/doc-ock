@@ -37,6 +37,8 @@ npm install
 
 ## Deployment to Cloudflare Pages
 
+
+
 1. Push your code to a GitHub/GitLab repository
 2. Go to Cloudflare Pages dashboard
 3. Select your repository
