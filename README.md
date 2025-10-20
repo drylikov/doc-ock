@@ -47,4 +47,6 @@ npm install
    - Build output directory: `build`
 5. Click "Deploy"
 
+
+
 For more details, refer to [Cloudflare Pages documentation](https://developers.cloudflare.com/pages/framework-guides/deploy-a-svelte-site/).
