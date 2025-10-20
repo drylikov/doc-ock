@@ -27,6 +27,8 @@ Doc-Ock is a web-to-markdown tool built with SvelteKit that allows you to parse 
 1. Clone the repository
 2. Install dependencies:
 
+
+
 ```bash
 npm install
 ```
