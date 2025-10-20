@@ -33,6 +33,8 @@ Doc-Ock is a web-to-markdown tool built with SvelteKit that allows you to parse 
 npm install
 ```
 
+
+
 ## Deployment to Cloudflare Pages
 
 1. Push your code to a GitHub/GitLab repository
