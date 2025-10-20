@@ -13,6 +13,8 @@ Doc-Ock is a web-to-markdown tool built with SvelteKit that allows you to parse 
 
 ## Prerequisites
 
+
+
 - Node.js (v18 or higher)
 - npm (v9 or higher)
 
